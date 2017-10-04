@@ -1,6 +1,9 @@
 #node module
 node_modules
 
+#debug
+npm-debug.log
+
 #production
 production
 
