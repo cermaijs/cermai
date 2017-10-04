@@ -1,0 +1,424 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@3.10.10
+3 info using node@v6.11.1
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly install normalizeTree
+8 silly loadCurrentTree Finishing
+9 silly loadIdealTree Starting
+10 silly install loadIdealTree
+11 silly cloneCurrentTree Starting
+12 silly install cloneCurrentTreeToIdealTree
+13 silly cloneCurrentTree Finishing
+14 silly loadShrinkwrap Starting
+15 silly install loadShrinkwrap
+16 silly loadShrinkwrap Finishing
+17 silly loadAllDepsIntoIdealTree Starting
+18 silly install loadAllDepsIntoIdealTree
+19 silly fetchNamedPackageData async
+20 silly mapToRegistry name async
+21 silly mapToRegistry using default registry
+22 silly mapToRegistry registry https://registry.npmjs.org/
+23 silly mapToRegistry data Result {
+23 silly mapToRegistry   raw: 'async',
+23 silly mapToRegistry   scope: null,
+23 silly mapToRegistry   escapedName: 'async',
+23 silly mapToRegistry   name: 'async',
+23 silly mapToRegistry   rawSpec: '',
+23 silly mapToRegistry   spec: 'latest',
+23 silly mapToRegistry   type: 'tag' }
+24 silly mapToRegistry uri https://registry.npmjs.org/async
+25 silly fetchNamedPackageData body-parser
+26 silly mapToRegistry name body-parser
+27 silly mapToRegistry using default registry
+28 silly mapToRegistry registry https://registry.npmjs.org/
+29 silly mapToRegistry data Result {
+29 silly mapToRegistry   raw: 'body-parser',
+29 silly mapToRegistry   scope: null,
+29 silly mapToRegistry   escapedName: 'body-parser',
+29 silly mapToRegistry   name: 'body-parser',
+29 silly mapToRegistry   rawSpec: '',
+29 silly mapToRegistry   spec: 'latest',
+29 silly mapToRegistry   type: 'tag' }
+30 silly mapToRegistry uri https://registry.npmjs.org/body-parser
+31 silly fetchNamedPackageData colors
+32 silly mapToRegistry name colors
+33 silly mapToRegistry using default registry
+34 silly mapToRegistry registry https://registry.npmjs.org/
+35 silly mapToRegistry data Result {
+35 silly mapToRegistry   raw: 'colors',
+35 silly mapToRegistry   scope: null,
+35 silly mapToRegistry   escapedName: 'colors',
+35 silly mapToRegistry   name: 'colors',
+35 silly mapToRegistry   rawSpec: '',
+35 silly mapToRegistry   spec: 'latest',
+35 silly mapToRegistry   type: 'tag' }
+36 silly mapToRegistry uri https://registry.npmjs.org/colors
+37 silly fetchNamedPackageData connect-redis
+38 silly mapToRegistry name connect-redis
+39 silly mapToRegistry using default registry
+40 silly mapToRegistry registry https://registry.npmjs.org/
+41 silly mapToRegistry data Result {
+41 silly mapToRegistry   raw: 'connect-redis',
+41 silly mapToRegistry   scope: null,
+41 silly mapToRegistry   escapedName: 'connect-redis',
+41 silly mapToRegistry   name: 'connect-redis',
+41 silly mapToRegistry   rawSpec: '',
+41 silly mapToRegistry   spec: 'latest',
+41 silly mapToRegistry   type: 'tag' }
+42 silly mapToRegistry uri https://registry.npmjs.org/connect-redis
+43 silly fetchNamedPackageData cookie-parser
+44 silly mapToRegistry name cookie-parser
+45 silly mapToRegistry using default registry
+46 silly mapToRegistry registry https://registry.npmjs.org/
+47 silly mapToRegistry data Result {
+47 silly mapToRegistry   raw: 'cookie-parser',
+47 silly mapToRegistry   scope: null,
+47 silly mapToRegistry   escapedName: 'cookie-parser',
+47 silly mapToRegistry   name: 'cookie-parser',
+47 silly mapToRegistry   rawSpec: '',
+47 silly mapToRegistry   spec: 'latest',
+47 silly mapToRegistry   type: 'tag' }
+48 silly mapToRegistry uri https://registry.npmjs.org/cookie-parser
+49 silly fetchNamedPackageData express
+50 silly mapToRegistry name express
+51 silly mapToRegistry using default registry
+52 silly mapToRegistry registry https://registry.npmjs.org/
+53 silly mapToRegistry data Result {
+53 silly mapToRegistry   raw: 'express',
+53 silly mapToRegistry   scope: null,
+53 silly mapToRegistry   escapedName: 'express',
+53 silly mapToRegistry   name: 'express',
+53 silly mapToRegistry   rawSpec: '',
+53 silly mapToRegistry   spec: 'latest',
+53 silly mapToRegistry   type: 'tag' }
+54 silly mapToRegistry uri https://registry.npmjs.org/express
+55 silly fetchNamedPackageData express-session
+56 silly mapToRegistry name express-session
+57 silly mapToRegistry using default registry
+58 silly mapToRegistry registry https://registry.npmjs.org/
+59 silly mapToRegistry data Result {
+59 silly mapToRegistry   raw: 'express-session',
+59 silly mapToRegistry   scope: null,
+59 silly mapToRegistry   escapedName: 'express-session',
+59 silly mapToRegistry   name: 'express-session',
+59 silly mapToRegistry   rawSpec: '',
+59 silly mapToRegistry   spec: 'latest',
+59 silly mapToRegistry   type: 'tag' }
+60 silly mapToRegistry uri https://registry.npmjs.org/express-session
+61 silly fetchNamedPackageData grunt-cli
+62 silly mapToRegistry name grunt-cli
+63 silly mapToRegistry using default registry
+64 silly mapToRegistry registry https://registry.npmjs.org/
+65 silly mapToRegistry data Result {
+65 silly mapToRegistry   raw: 'grunt-cli',
+65 silly mapToRegistry   scope: null,
+65 silly mapToRegistry   escapedName: 'grunt-cli',
+65 silly mapToRegistry   name: 'grunt-cli',
+65 silly mapToRegistry   rawSpec: '',
+65 silly mapToRegistry   spec: 'latest',
+65 silly mapToRegistry   type: 'tag' }
+66 silly mapToRegistry uri https://registry.npmjs.org/grunt-cli
+67 silly fetchNamedPackageData jade
+68 silly mapToRegistry name jade
+69 silly mapToRegistry using default registry
+70 silly mapToRegistry registry https://registry.npmjs.org/
+71 silly mapToRegistry data Result {
+71 silly mapToRegistry   raw: 'jade',
+71 silly mapToRegistry   scope: null,
+71 silly mapToRegistry   escapedName: 'jade',
+71 silly mapToRegistry   name: 'jade',
+71 silly mapToRegistry   rawSpec: '',
+71 silly mapToRegistry   spec: 'latest',
+71 silly mapToRegistry   type: 'tag' }
+72 silly mapToRegistry uri https://registry.npmjs.org/jade
+73 silly fetchNamedPackageData moment
+74 silly mapToRegistry name moment
+75 silly mapToRegistry using default registry
+76 silly mapToRegistry registry https://registry.npmjs.org/
+77 silly mapToRegistry data Result {
+77 silly mapToRegistry   raw: 'moment',
+77 silly mapToRegistry   scope: null,
+77 silly mapToRegistry   escapedName: 'moment',
+77 silly mapToRegistry   name: 'moment',
+77 silly mapToRegistry   rawSpec: '',
+77 silly mapToRegistry   spec: 'latest',
+77 silly mapToRegistry   type: 'tag' }
+78 silly mapToRegistry uri https://registry.npmjs.org/moment
+79 silly fetchNamedPackageData mongodb
+80 silly mapToRegistry name mongodb
+81 silly mapToRegistry using default registry
+82 silly mapToRegistry registry https://registry.npmjs.org/
+83 silly mapToRegistry data Result {
+83 silly mapToRegistry   raw: 'mongodb',
+83 silly mapToRegistry   scope: null,
+83 silly mapToRegistry   escapedName: 'mongodb',
+83 silly mapToRegistry   name: 'mongodb',
+83 silly mapToRegistry   rawSpec: '',
+83 silly mapToRegistry   spec: 'latest',
+83 silly mapToRegistry   type: 'tag' }
+84 silly mapToRegistry uri https://registry.npmjs.org/mongodb
+85 silly fetchNamedPackageData morgan
+86 silly mapToRegistry name morgan
+87 silly mapToRegistry using default registry
+88 silly mapToRegistry registry https://registry.npmjs.org/
+89 silly mapToRegistry data Result {
+89 silly mapToRegistry   raw: 'morgan',
+89 silly mapToRegistry   scope: null,
+89 silly mapToRegistry   escapedName: 'morgan',
+89 silly mapToRegistry   name: 'morgan',
+89 silly mapToRegistry   rawSpec: '',
+89 silly mapToRegistry   spec: 'latest',
+89 silly mapToRegistry   type: 'tag' }
+90 silly mapToRegistry uri https://registry.npmjs.org/morgan
+91 silly fetchNamedPackageData redis
+92 silly mapToRegistry name redis
+93 silly mapToRegistry using default registry
+94 silly mapToRegistry registry https://registry.npmjs.org/
+95 silly mapToRegistry data Result {
+95 silly mapToRegistry   raw: 'redis',
+95 silly mapToRegistry   scope: null,
+95 silly mapToRegistry   escapedName: 'redis',
+95 silly mapToRegistry   name: 'redis',
+95 silly mapToRegistry   rawSpec: '',
+95 silly mapToRegistry   spec: 'latest',
+95 silly mapToRegistry   type: 'tag' }
+96 silly mapToRegistry uri https://registry.npmjs.org/redis
+97 silly fetchNamedPackageData stylus
+98 silly mapToRegistry name stylus
+99 silly mapToRegistry using default registry
+100 silly mapToRegistry registry https://registry.npmjs.org/
+101 silly mapToRegistry data Result {
+101 silly mapToRegistry   raw: 'stylus',
+101 silly mapToRegistry   scope: null,
+101 silly mapToRegistry   escapedName: 'stylus',
+101 silly mapToRegistry   name: 'stylus',
+101 silly mapToRegistry   rawSpec: '',
+101 silly mapToRegistry   spec: 'latest',
+101 silly mapToRegistry   type: 'tag' }
+102 silly mapToRegistry uri https://registry.npmjs.org/stylus
+103 silly fetchNamedPackageData underscore
+104 silly mapToRegistry name underscore
+105 silly mapToRegistry using default registry
+106 silly mapToRegistry registry https://registry.npmjs.org/
+107 silly mapToRegistry data Result {
+107 silly mapToRegistry   raw: 'underscore',
+107 silly mapToRegistry   scope: null,
+107 silly mapToRegistry   escapedName: 'underscore',
+107 silly mapToRegistry   name: 'underscore',
+107 silly mapToRegistry   rawSpec: '',
+107 silly mapToRegistry   spec: 'latest',
+107 silly mapToRegistry   type: 'tag' }
+108 silly mapToRegistry uri https://registry.npmjs.org/underscore
+109 verbose request uri https://registry.npmjs.org/connect-redis
+110 verbose request no auth needed
+111 info attempt registry request try #1 at 8:14:06 PM
+112 verbose request id e054ca07c48f3751
+113 http request GET https://registry.npmjs.org/connect-redis
+114 verbose request uri https://registry.npmjs.org/grunt-cli
+115 verbose request no auth needed
+116 info attempt registry request try #1 at 8:14:06 PM
+117 http request GET https://registry.npmjs.org/grunt-cli
+118 verbose request uri https://registry.npmjs.org/redis
+119 verbose request no auth needed
+120 info attempt registry request try #1 at 8:14:06 PM
+121 http request GET https://registry.npmjs.org/redis
+122 verbose request uri https://registry.npmjs.org/stylus
+123 verbose request no auth needed
+124 info attempt registry request try #1 at 8:14:06 PM
+125 http request GET https://registry.npmjs.org/stylus
+126 verbose request uri https://registry.npmjs.org/body-parser
+127 verbose request no auth needed
+128 info attempt registry request try #1 at 8:14:07 PM
+129 verbose etag W/"59ced290-2313a"
+130 verbose lastModified Fri, 29 Sep 2017 23:09:04 GMT
+131 http request GET https://registry.npmjs.org/body-parser
+132 verbose request uri https://registry.npmjs.org/colors
+133 verbose request no auth needed
+134 info attempt registry request try #1 at 8:14:07 PM
+135 verbose etag W/"59c5283c-5ab0"
+136 verbose lastModified Fri, 22 Sep 2017 15:11:56 GMT
+137 http request GET https://registry.npmjs.org/colors
+138 verbose request uri https://registry.npmjs.org/cookie-parser
+139 verbose request no auth needed
+140 info attempt registry request try #1 at 8:14:07 PM
+141 verbose etag W/"59d191bd-6bb1"
+142 verbose lastModified Mon, 02 Oct 2017 01:09:17 GMT
+143 http request GET https://registry.npmjs.org/cookie-parser
+144 verbose request uri https://registry.npmjs.org/express
+145 verbose request no auth needed
+146 info attempt registry request try #1 at 8:14:07 PM
+147 verbose etag W/"59d0e79d-9255f"
+148 verbose lastModified Sun, 01 Oct 2017 13:03:25 GMT
+149 http request GET https://registry.npmjs.org/express
+150 verbose request uri https://registry.npmjs.org/async
+151 verbose request no auth needed
+152 info attempt registry request try #1 at 8:14:07 PM
+153 verbose etag W/"59d03ec0-21faf"
+154 verbose lastModified Sun, 01 Oct 2017 01:02:56 GMT
+155 http request GET https://registry.npmjs.org/async
+156 verbose request uri https://registry.npmjs.org/express-session
+157 verbose request no auth needed
+158 info attempt registry request try #1 at 8:14:07 PM
+159 verbose etag W/"59d1921d-20e0d"
+160 verbose lastModified Mon, 02 Oct 2017 01:10:53 GMT
+161 http request GET https://registry.npmjs.org/express-session
+162 verbose request uri https://registry.npmjs.org/mongodb
+163 verbose request no auth needed
+164 info attempt registry request try #1 at 8:14:07 PM
+165 verbose etag W/"59d11ddc-99332"
+166 verbose lastModified Sun, 01 Oct 2017 16:54:52 GMT
+167 http request GET https://registry.npmjs.org/mongodb
+168 verbose request uri https://registry.npmjs.org/jade
+169 verbose request no auth needed
+170 info attempt registry request try #1 at 8:14:07 PM
+171 verbose etag W/"59ad51ce-27beb"
+172 verbose lastModified Mon, 04 Sep 2017 13:14:54 GMT
+173 http request GET https://registry.npmjs.org/jade
+174 verbose request uri https://registry.npmjs.org/underscore
+175 verbose request no auth needed
+176 info attempt registry request try #1 at 8:14:07 PM
+177 verbose etag W/"59b90f7e-af9e"
+178 verbose lastModified Wed, 13 Sep 2017 10:59:10 GMT
+179 http request GET https://registry.npmjs.org/underscore
+180 verbose request uri https://registry.npmjs.org/morgan
+181 verbose request no auth needed
+182 info attempt registry request try #1 at 8:14:07 PM
+183 verbose etag W/"59cbfd14-e653"
+184 verbose lastModified Wed, 27 Sep 2017 19:33:40 GMT
+185 http request GET https://registry.npmjs.org/morgan
+186 verbose request uri https://registry.npmjs.org/moment
+187 verbose request no auth needed
+188 info attempt registry request try #1 at 8:14:07 PM
+189 verbose etag W/"59cabe5b-1c85a"
+190 verbose lastModified Tue, 26 Sep 2017 20:53:47 GMT
+191 http request GET https://registry.npmjs.org/moment
+192 http 200 https://registry.npmjs.org/grunt-cli
+193 verbose headers { server: 'nginx/1.10.3',
+193 verbose headers   'content-type': 'application/json',
+193 verbose headers   'last-modified': 'Fri, 29 Sep 2017 08:20:11 GMT',
+193 verbose headers   etag: 'W/"59ce023b-81b2"',
+193 verbose headers   'content-encoding': 'gzip',
+193 verbose headers   'cache-control': 'max-age=300',
+193 verbose headers   'content-length': '5742',
+193 verbose headers   'accept-ranges': 'bytes',
+193 verbose headers   date: 'Wed, 04 Oct 2017 13:14:41 GMT',
+193 verbose headers   via: '1.1 varnish',
+193 verbose headers   age: '112',
+193 verbose headers   connection: 'keep-alive',
+193 verbose headers   'x-served-by': 'cache-sin18022-SIN',
+193 verbose headers   'x-cache': 'HIT',
+193 verbose headers   'x-cache-hits': '1',
+193 verbose headers   'x-timer': 'S1507122882.828582,VS0,VE0',
+193 verbose headers   vary: 'Accept-Encoding, Accept' }
+194 silly get cb [ 200,
+194 silly get   { server: 'nginx/1.10.3',
+194 silly get     'content-type': 'application/json',
+194 silly get     'last-modified': 'Fri, 29 Sep 2017 08:20:11 GMT',
+194 silly get     etag: 'W/"59ce023b-81b2"',
+194 silly get     'content-encoding': 'gzip',
+194 silly get     'cache-control': 'max-age=300',
+194 silly get     'content-length': '5742',
+194 silly get     'accept-ranges': 'bytes',
+194 silly get     date: 'Wed, 04 Oct 2017 13:14:41 GMT',
+194 silly get     via: '1.1 varnish',
+194 silly get     age: '112',
+194 silly get     connection: 'keep-alive',
+194 silly get     'x-served-by': 'cache-sin18022-SIN',
+194 silly get     'x-cache': 'HIT',
+194 silly get     'x-cache-hits': '1',
+194 silly get     'x-timer': 'S1507122882.828582,VS0,VE0',
+194 silly get     vary: 'Accept-Encoding, Accept' } ]
+195 verbose get saving grunt-cli to C:\Users\Abid Rakhmansyah\AppData\Roaming\npm-cache\registry.npmjs.org\grunt-cli\.cache.json
+196 verbose correctMkdir C:\Users\Abid Rakhmansyah\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+197 silly resolveWithNewModule grunt-cli@1.2.0 checking installable status
+198 silly cache add args [ 'grunt-cli@^1.1.0', null ]
+199 verbose cache add spec grunt-cli@^1.1.0
+200 silly cache add parsed spec Result {
+200 silly cache add   raw: 'grunt-cli@^1.1.0',
+200 silly cache add   scope: null,
+200 silly cache add   escapedName: 'grunt-cli',
+200 silly cache add   name: 'grunt-cli',
+200 silly cache add   rawSpec: '^1.1.0',
+200 silly cache add   spec: '>=1.1.0 <2.0.0',
+200 silly cache add   type: 'range' }
+201 silly addNamed grunt-cli@>=1.1.0 <2.0.0
+202 verbose addNamed ">=1.1.0 <2.0.0" is a valid semver range for grunt-cli
+203 silly addNameRange { name: 'grunt-cli', range: '>=1.1.0 <2.0.0', hasData: false }
+204 silly mapToRegistry name grunt-cli
+205 silly mapToRegistry using default registry
+206 silly mapToRegistry registry https://registry.npmjs.org/
+207 silly mapToRegistry data Result {
+207 silly mapToRegistry   raw: 'grunt-cli',
+207 silly mapToRegistry   scope: null,
+207 silly mapToRegistry   escapedName: 'grunt-cli',
+207 silly mapToRegistry   name: 'grunt-cli',
+207 silly mapToRegistry   rawSpec: '',
+207 silly mapToRegistry   spec: 'latest',
+207 silly mapToRegistry   type: 'tag' }
+208 silly mapToRegistry uri https://registry.npmjs.org/grunt-cli
+209 verbose addNameRange registry:https://registry.npmjs.org/grunt-cli not in flight; fetching
+210 verbose get https://registry.npmjs.org/grunt-cli not expired, no request
+211 silly addNameRange number 2 { name: 'grunt-cli', range: '>=1.1.0 <2.0.0', hasData: true }
+212 silly addNameRange versions [ 'grunt-cli',
+212 silly addNameRange   [ '0.1.0',
+212 silly addNameRange     '0.1.1',
+212 silly addNameRange     '0.1.2',
+212 silly addNameRange     '0.1.3',
+212 silly addNameRange     '0.1.4',
+212 silly addNameRange     '0.1.5',
+212 silly addNameRange     '0.1.6',
+212 silly addNameRange     '0.1.7',
+212 silly addNameRange     '0.1.8',
+212 silly addNameRange     '0.1.9',
+212 silly addNameRange     '0.1.10',
+212 silly addNameRange     '0.1.11',
+212 silly addNameRange     '0.1.12',
+212 silly addNameRange     '0.1.13',
+212 silly addNameRange     '1.0.0-rc1',
+212 silly addNameRange     '1.0.0',
+212 silly addNameRange     '1.0.1',
+212 silly addNameRange     '1.1.0',
+212 silly addNameRange     '1.2.0' ] ]
+213 silly addNamed grunt-cli@1.2.0
+214 verbose addNamed "1.2.0" is a plain semver version for grunt-cli
+215 silly mapToRegistry name grunt-cli
+216 silly mapToRegistry using default registry
+217 silly mapToRegistry registry https://registry.npmjs.org/
+218 silly mapToRegistry data Result {
+218 silly mapToRegistry   raw: 'grunt-cli',
+218 silly mapToRegistry   scope: null,
+218 silly mapToRegistry   escapedName: 'grunt-cli',
+218 silly mapToRegistry   name: 'grunt-cli',
+218 silly mapToRegistry   rawSpec: '',
+218 silly mapToRegistry   spec: 'latest',
+218 silly mapToRegistry   type: 'tag' }
+219 silly mapToRegistry uri https://registry.npmjs.org/grunt-cli
+220 verbose addRemoteTarball https://registry.npmjs.org/grunt-cli/-/grunt-cli-1.2.0.tgz not in flight; adding
+221 verbose addRemoteTarball [ 'https://registry.npmjs.org/grunt-cli/-/grunt-cli-1.2.0.tgz',
+221 verbose addRemoteTarball   '562b119ebb069ddb464ace2845501be97b35b6a8' ]
+222 info retry fetch attempt 1 at 8:14:07 PM
+223 info attempt registry request try #1 at 8:14:07 PM
+224 http fetch GET https://registry.npmjs.org/grunt-cli/-/grunt-cli-1.2.0.tgz
+225 http fetch 200 https://registry.npmjs.org/grunt-cli/-/grunt-cli-1.2.0.tgz
+226 warn retry will retry, error on last attempt: Error: EBUSY: resource busy or locked, rename 'C:\Users\ABIDRA~1\AppData\Local\Temp\npm-7512-da82cd09\registry.npmjs.org\grunt-cli\-\grunt-cli-1.2.0.tgz.3284255847' -> 'C:\Users\ABIDRA~1\AppData\Local\Temp\npm-7512-da82cd09\registry.npmjs.org\grunt-cli\-\grunt-cli-1.2.0.tgz'
+227 verbose stack TypeError: tarball.destroy is not a function
+227 verbose stack     at WriteStreamAtomic.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\cache\add-remote-tarball.js:97:15)
+227 verbose stack     at emitOne (events.js:101:20)
+227 verbose stack     at WriteStreamAtomic.emit (events.js:188:7)
+227 verbose stack     at WriteStreamAtomic.emit (C:\Program Files\nodejs\node_modules\npm\node_modules\fs-write-stream-atomic\index.js:60:34)
+227 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\fs-write-stream-atomic\index.js:89:19
+227 verbose stack     at FSReqWrap.oncomplete (fs.js:123:15)
+228 verbose cwd D:\project\cermai
+229 error Windows_NT 10.0.10240
+230 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+231 error node v6.11.1
+232 error npm  v3.10.10
+233 error tarball.destroy is not a function
+234 error If you need help, you may report this error at:
+234 error     <https://github.com/npm/npm/issues>
+235 verbose exit [ 1, true ]
