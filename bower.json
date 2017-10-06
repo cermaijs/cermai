@@ -1,12 +1,12 @@
 {
   "name": "CermaiJS",
-  "description": "",
+  "description": "Framework nodejs with mongodb",
   "main": "./index.js",
   "authors": [
-    "Shodiqul Muzaki <user.creativefull@gmail.com>"
+    "CermaiJS <user.creativefull@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/creativefull/cermai",
+  "homepage": "https://github.com/cermaijs/cermai",
   "moduleType": [],
   "private": true,
   "ignore": [
