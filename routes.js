@@ -1,5 +1,6 @@
 module.exports = exports = function(cermai, db) {
-	var WelcomeHandler = require('./routes/welcome'), Welcome = new WelcomeHandler(db);
+  var WelcomeHandler = require("./routes/welcome"),
+    Welcome = new WelcomeHandler(db);
 
-	cermai.get('/', Welcome.index);
-}
+  cermai.get("/", Welcome.index);
+};

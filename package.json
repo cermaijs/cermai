@@ -4,6 +4,7 @@
   "private": false,
   "scripts": {
     "start": "node ./index.js",
+    "dev": "nodemon index.js",
     "deploy": "./node_modules/.bin/grunt production"
   },
   "main": "./index.js",
@@ -20,6 +21,7 @@
     "moment": "^2.11.2",
     "mongodb": "^2.0.48",
     "morgan": "^1.7.0",
+    "nodemon": "^1.12.1",
     "redis": "^2.3.0",
     "stylus": "^0.52.4",
     "underscore": "^1.8.3"
